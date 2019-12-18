@@ -1,23 +1,15 @@
 import React from 'react';
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
+import PostContainer from './PostContainer'
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <h1>Mugtome</h1>
+        <img src="https://www.ikea.com/PIAimages/0713396_PE729489_S5.JPG?f=s" className="App-logo" alt="logo" />
+        <PostContainer />
       </header>
     </div>
   );

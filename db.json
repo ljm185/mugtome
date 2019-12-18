@@ -1,0 +1,24 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "user": "SuperSonic9001",
+            "content": "Just went on a Taco Bell binge in the middle of the night. Hopefully this doesn't bite me in the butt after I wake up."
+        },
+        {
+            "id": 2,
+            "user": "LifeOfTheParty3000",
+            "content": "maaaaaaaan that party was so wiiiiiiiild"
+        },
+        {
+            "id": 3,
+            "user": "IceCreamFan122",
+            "content": "feelin hungry for some ice cream rn"
+        },
+        {
+            "id": 4,
+            "user": "user4",
+            "content": "woke up naturally at 5am this morning i feel soooooooooooo accomplished"
+        }
+    ]
+}
