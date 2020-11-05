@@ -10,7 +10,8 @@
     "react-scripts": "3.1.2",
     "serialize-javascript": "^3.1.0",
     "yargs-parser": ">=13.1.2",
-    "object-path": ">=0.11.5"
+    "object-path": ">=0.11.5",
+    "dot-prop": ">=4.2.1"
   },
   "scripts": {
     "start": "react-scripts start",
