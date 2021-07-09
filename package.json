@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "browserslist": ">=4.16.5",
+    "color-string": ">=1.5.5",
     "dot-prop": ">=4.2.1",
     "glob-parent": ">=5.1.2",
     "handlebars": ">=4.7.7",
